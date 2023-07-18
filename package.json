@@ -1,0 +1,26 @@
+{
+  "name": "10-svg-logo",
+  "description": "Challenge 10 SVG logo maker",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {
+    "jest": "^29.6.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/frvnlol/10-SVG-LOGO.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/frvnlol/10-SVG-LOGO/issues"
+  },
+  "homepage": "https://github.com/frvnlol/10-SVG-LOGO#readme",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "inquirer": "^9.2.8"
+  }
+}
