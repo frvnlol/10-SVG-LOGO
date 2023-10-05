@@ -1,26 +1,19 @@
 {
-  "name": "10-svg-logo",
-  "description": "Challenge 10 SVG logo maker",
+  "name": "list-geni",
   "version": "1.0.0",
+  "description": "A command line list generator. Input the tasks you plan to complete today and List Geni generates a cleanly styled html document for viewing your tasks.",
   "main": "index.js",
-  "devDependencies": {
-    "jest": "^29.6.1"
-  },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node index.js",
+    "test": "jest"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/frvnlol/10-SVG-LOGO.git"
-  },
+  "keywords": [],
   "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/frvnlol/10-SVG-LOGO/issues"
-  },
-  "homepage": "https://github.com/frvnlol/10-SVG-LOGO#readme",
+  "license": "MIT",
   "dependencies": {
-    "fs": "^0.0.1-security",
-    "inquirer": "^9.2.8"
+    "inquirer": "^8.2.4"
+  },
+  "devDependencies": {
+    "jest": "^28.1.3"
   }
 }
