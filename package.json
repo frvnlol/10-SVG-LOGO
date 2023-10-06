@@ -1,5 +1,5 @@
 {
-  "name": "list-geni",
+  "name": "Logo-Creation",
   "version": "1.0.0",
   "description": "A command line list generator. Input the tasks you plan to complete today and List Geni generates a cleanly styled html document for viewing your tasks.",
   "main": "index.js",
